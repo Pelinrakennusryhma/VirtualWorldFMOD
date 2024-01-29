@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="AudioFile" id="{d2fcb3fd-fe74-4e41-8cda-de1aa7ca358f}">
+		<property name="assetPath">
+			<value>Minigames/TableTopInvaders/2_Countdown123.wav</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>44.0999985</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>0.70031746031746034</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{b5b6015c-4bd0-4978-a064-77a058f5f711}</destination>
+		</relationship>
+	</object>
+</objects>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="AudioFile" id="{4d87e1c5-620a-46fc-9733-65387d05c0f6}">
+		<property name="assetPath">
+			<value>Minigames/GravityShip/RocketBoost1_fadeinout.wav</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>44.0999985</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>1.1257596371882086</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{b5b6015c-4bd0-4978-a064-77a058f5f711}</destination>
+		</relationship>
+	</object>
+</objects>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="EncodableAsset" id="{c4fe75d0-1f9d-44b2-83a6-028bf036e192}">
+		<property name="assetPath">
+			<value>Minigames/</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{b5b6015c-4bd0-4978-a064-77a058f5f711}</destination>
+		</relationship>
+	</object>
+</objects>
